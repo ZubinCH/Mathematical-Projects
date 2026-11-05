@@ -17,3 +17,7 @@ Simple maths projects developed for experimentation purposes. Most of these prog
 ### Future projects include:
     - Fast Fourier Transform algorithm
     - Newton's Method
+
+
+
+***All projects and code has been developed without the assistance of AI for learning purposes.***
